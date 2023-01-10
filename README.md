@@ -1,4 +1,4 @@
-# Elora's Heartless Colors
+# Elora's Heartless Colors PS2
 For personal use.
 Uses Tomk1004's Vanilla Heartless mod as a base.
 
